@@ -5,7 +5,7 @@ A hybrid sequence-dependent layout approach for fire sprinkler systems in buildi
 
 ## **Supplementary Materials**
 
-Taking the **Instance01** for example, and the folder structure of the other instacens is similar.  
+Taking **Instance01** for example, and the folder structure of the other instacens is similar.  
 
 - bim_data.dwg: Auto CAD file for BIM data
 - bim_data.rvt: Revit file for BIM data
