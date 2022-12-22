@@ -1,0 +1,60 @@
+{
+    "Conclusion": {
+        "NumSprinkler": 2334,
+        "NumFireCompart": 5,
+        "FireCompartArea": 16193.515,
+        "NumMainBuilding": 8,
+        "MainBuildingArea": 4508.466,
+        "NumBarrier": 177,
+        "NumBlock": 371,
+        "NumBlockSolvedByParallelogram": 0,
+        "NumBlockSolvedByRectangle": 0,
+        "NumBlockSolvedByPolygon": 0,
+        "NumBlockFailed": 0,
+        "SolvingTime": 0,
+        "InteriorUniformityMetric": 661500,
+        "ExteriorUniformityMetric": 437434,
+        "AlignedMetric": [
+            1902,
+            198
+        ],
+        "CoverageRate": 0.9407401993816265
+    },
+    "Detail": [
+        {
+            "FireCompartName": "fire_compart 156",
+            "NumSprinkler": 391,
+            "Area": 2630.843,
+            "NumBarrier": 44,
+            "NumBlock": 63
+        },
+        {
+            "FireCompartName": "fire_compart 157",
+            "NumSprinkler": 496,
+            "Area": 3606.435,
+            "NumBarrier": 26,
+            "NumBlock": 82
+        },
+        {
+            "FireCompartName": "fire_compart 158",
+            "NumSprinkler": 413,
+            "Area": 2639.797,
+            "NumBarrier": 34,
+            "NumBlock": 63
+        },
+        {
+            "FireCompartName": "fire_compart 159",
+            "NumSprinkler": 511,
+            "Area": 3656.389,
+            "NumBarrier": 23,
+            "NumBlock": 81
+        },
+        {
+            "FireCompartName": "fire_compart 160",
+            "NumSprinkler": 523,
+            "Area": 3660.051,
+            "NumBarrier": 50,
+            "NumBlock": 82
+        }
+    ]
+}

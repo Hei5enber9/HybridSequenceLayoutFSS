@@ -1,0 +1,193 @@
+{
+    "Conclusion": {
+        "NumSprinkler": 10901,
+        "NumFireCompart": 24,
+        "FireCompartArea": 66399.892,
+        "NumMainBuilding": 24,
+        "MainBuildingArea": 14121.501,
+        "NumBarrier": 1522,
+        "NumBlock": 1624,
+        "NumBlockSolvedByParallelogram": 0,
+        "NumBlockSolvedByRectangle": 0,
+        "NumBlockSolvedByPolygon": 0,
+        "NumBlockFailed": 0,
+        "SolvingTime": 0,
+        "InteriorUniformityMetric": 3097000,
+        "ExteriorUniformityMetric": 1779214,
+        "AlignedMetric": [
+            9577,
+            951
+        ],
+        "CoverageRate": 0.9709774759390659
+    },
+    "Detail": [
+        {
+            "FireCompartName": "fire_compart 124",
+            "NumSprinkler": 309,
+            "Area": 1822.673,
+            "NumBarrier": 52,
+            "NumBlock": 46
+        },
+        {
+            "FireCompartName": "fire_compart 125",
+            "NumSprinkler": 288,
+            "Area": 1824.806,
+            "NumBarrier": 48,
+            "NumBlock": 46
+        },
+        {
+            "FireCompartName": "fire_compart 126",
+            "NumSprinkler": 346,
+            "Area": 2087.615,
+            "NumBarrier": 73,
+            "NumBlock": 55
+        },
+        {
+            "FireCompartName": "fire_compart 127",
+            "NumSprinkler": 268,
+            "Area": 1810.224,
+            "NumBarrier": 16,
+            "NumBlock": 43
+        },
+        {
+            "FireCompartName": "fire_compart 128",
+            "NumSprinkler": 455,
+            "Area": 2812.199,
+            "NumBarrier": 51,
+            "NumBlock": 69
+        },
+        {
+            "FireCompartName": "fire_compart 129",
+            "NumSprinkler": 63,
+            "Area": 466.129,
+            "NumBarrier": 8,
+            "NumBlock": 10
+        },
+        {
+            "FireCompartName": "fire_compart 130",
+            "NumSprinkler": 74,
+            "Area": 558.79,
+            "NumBarrier": 15,
+            "NumBlock": 15
+        },
+        {
+            "FireCompartName": "fire_compart 131",
+            "NumSprinkler": 225,
+            "Area": 1395.022,
+            "NumBarrier": 36,
+            "NumBlock": 36
+        },
+        {
+            "FireCompartName": "fire_compart 132",
+            "NumSprinkler": 587,
+            "Area": 3448.675,
+            "NumBarrier": 77,
+            "NumBlock": 92
+        },
+        {
+            "FireCompartName": "fire_compart 133",
+            "NumSprinkler": 518,
+            "Area": 3467.683,
+            "NumBarrier": 39,
+            "NumBlock": 78
+        },
+        {
+            "FireCompartName": "fire_compart 134",
+            "NumSprinkler": 568,
+            "Area": 3183.649,
+            "NumBarrier": 67,
+            "NumBlock": 84
+        },
+        {
+            "FireCompartName": "fire_compart 135",
+            "NumSprinkler": 374,
+            "Area": 2425.204,
+            "NumBarrier": 74,
+            "NumBlock": 62
+        },
+        {
+            "FireCompartName": "fire_compart 136",
+            "NumSprinkler": 606,
+            "Area": 3482.152,
+            "NumBarrier": 92,
+            "NumBlock": 84
+        },
+        {
+            "FireCompartName": "fire_compart 137",
+            "NumSprinkler": 624,
+            "Area": 3764.251,
+            "NumBarrier": 91,
+            "NumBlock": 97
+        },
+        {
+            "FireCompartName": "fire_compart 138",
+            "NumSprinkler": 569,
+            "Area": 3527.143,
+            "NumBarrier": 109,
+            "NumBlock": 86
+        },
+        {
+            "FireCompartName": "fire_compart 139",
+            "NumSprinkler": 416,
+            "Area": 2589.768,
+            "NumBarrier": 60,
+            "NumBlock": 57
+        },
+        {
+            "FireCompartName": "fire_compart 140",
+            "NumSprinkler": 666,
+            "Area": 3877.854,
+            "NumBarrier": 105,
+            "NumBlock": 99
+        },
+        {
+            "FireCompartName": "fire_compart 141",
+            "NumSprinkler": 553,
+            "Area": 3530.127,
+            "NumBarrier": 84,
+            "NumBlock": 86
+        },
+        {
+            "FireCompartName": "fire_compart 142",
+            "NumSprinkler": 576,
+            "Area": 3781.868,
+            "NumBarrier": 101,
+            "NumBlock": 81
+        },
+        {
+            "FireCompartName": "fire_compart 143",
+            "NumSprinkler": 593,
+            "Area": 3773.068,
+            "NumBarrier": 49,
+            "NumBlock": 89
+        },
+        {
+            "FireCompartName": "fire_compart 144",
+            "NumSprinkler": 698,
+            "Area": 3962.545,
+            "NumBarrier": 86,
+            "NumBlock": 104
+        },
+        {
+            "FireCompartName": "fire_compart 145",
+            "NumSprinkler": 682,
+            "Area": 3563.767,
+            "NumBarrier": 84,
+            "NumBlock": 85
+        },
+        {
+            "FireCompartName": "fire_compart 146",
+            "NumSprinkler": 393,
+            "Area": 2491.31,
+            "NumBarrier": 38,
+            "NumBlock": 51
+        },
+        {
+            "FireCompartName": "fire_compart 147",
+            "NumSprinkler": 450,
+            "Area": 2753.371,
+            "NumBarrier": 67,
+            "NumBlock": 69
+        }
+    ]
+}

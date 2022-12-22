@@ -1,0 +1,74 @@
+{
+    "Conclusion": {
+        "NumSprinkler": 2906,
+        "NumFireCompart": 7,
+        "FireCompartArea": 16553.026,
+        "NumMainBuilding": 10,
+        "MainBuildingArea": 3577.186,
+        "NumBarrier": 431,
+        "NumBlock": 388,
+        "NumBlockSolvedByParallelogram": 0,
+        "NumBlockSolvedByRectangle": 0,
+        "NumBlockSolvedByPolygon": 0,
+        "NumBlockFailed": 0,
+        "SolvingTime": 0,
+        "InteriorUniformityMetric": 333000,
+        "ExteriorUniformityMetric": 403156,
+        "AlignedMetric": [
+            3874,
+            552
+        ],
+        "CoverageRate": 0.9733006437630131
+    },
+    "Detail": [
+        {
+            "FireCompartName": "fire_compart 83",
+            "NumSprinkler": 370,
+            "Area": 2049.399,
+            "NumBarrier": 47,
+            "NumBlock": 48
+        },
+        {
+            "FireCompartName": "fire_compart 85",
+            "NumSprinkler": 338,
+            "Area": 1976.93,
+            "NumBarrier": 32,
+            "NumBlock": 45
+        },
+        {
+            "FireCompartName": "fire_compart 88",
+            "NumSprinkler": 409,
+            "Area": 2484.845,
+            "NumBarrier": 65,
+            "NumBlock": 49
+        },
+        {
+            "FireCompartName": "fire_compart 90",
+            "NumSprinkler": 531,
+            "Area": 3117.69,
+            "NumBarrier": 83,
+            "NumBlock": 74
+        },
+        {
+            "FireCompartName": "fire_compart 92",
+            "NumSprinkler": 454,
+            "Area": 2621.39,
+            "NumBarrier": 93,
+            "NumBlock": 65
+        },
+        {
+            "FireCompartName": "fire_compart 95",
+            "NumSprinkler": 636,
+            "Area": 3463.827,
+            "NumBarrier": 63,
+            "NumBlock": 79
+        },
+        {
+            "FireCompartName": "fire_compart 98",
+            "NumSprinkler": 168,
+            "Area": 838.945,
+            "NumBarrier": 48,
+            "NumBlock": 28
+        }
+    ]
+}
